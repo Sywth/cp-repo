@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["codeforces", "hackerrank", "leetcode"]
+  "cSpell.words": ["codeforces", "hackerrank", "leetcode"],
+  "rust-analyzer.linkedProjects": [".\\Cargo.toml"]
 }
