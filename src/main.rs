@@ -1,5 +1,5 @@
-mod leet_3100;
-use leet_3100::test;
+mod leet_3095;
+use leet_3095::test;
 
 fn main() {
     test();
